@@ -11,4 +11,7 @@ Example of work:
 *success!* it took 0.007627964019775391 seconds
 4. measuring time to find 10k random words in a balanced binary tree...
 *success!* it took 0.007166147232055664 seconds
+
+
+In order for the program to work, clone the following repository: https://github.com/anrom7/binary_search_tree
 ```
